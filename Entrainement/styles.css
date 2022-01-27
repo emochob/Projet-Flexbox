@@ -1,0 +1,158 @@
+#conteneur {
+    width: 100%;
+    height:300px;
+    border: solid purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#conteneur1 {
+    width: 100%;
+    height:200px;
+    border: solid darkgoldenrod;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around; 
+}
+
+#conteneur2 {
+    width: 100%;
+    height:200px;
+    border: solid cornflowerblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;   
+}
+
+#conteneur3 {
+    width: 100%;
+    height:200px;
+    border: solid maroon;
+    display: flex;
+    justify-content: center;
+}
+
+#conteneur4 {
+    width: 100%;
+    height:200px;
+    border: solid pink;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#conteneur5 {
+    width: 100%;
+    height:200px;
+    border: solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#conteneur6 {
+    width: 100%;
+    height:200px;
+    border: solid green;
+    display: flex;
+    justify-content: space-between;
+}
+
+#conteneur7 {
+    width: 100%;
+    height:200px;
+    border: solid yellow;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+    align-items: center;
+}
+
+#conteneur8 {
+    width: 100%;
+    height:200px;
+    border: solid magenta;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#conteneur9 {
+    width: 100%;
+    height:200px;
+    border: solid red;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around; 
+    align-items: center;
+}
+
+.tete {
+    background-color: darkblue;
+    width: 100%;
+    height: 100%;
+}
+
+.texte {
+    background-color: blueviolet;
+    width: 200px;
+    height: 100px;
+}
+
+.image {
+    background-color: seagreen;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.milieu {
+    background-color: sienna;
+    width: 200px;
+    height: 100px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.outils {
+    background-color: silver;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.feature {
+    background-color: skyblue;
+    width: 200px;
+    height: 100px;
+}
+
+.usered{
+    background-color: lightseagreen;
+    width: 49%;
+    height: 80%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.user {
+    background-color: springgreen;
+    width: 49%;
+    height: 80%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.menu {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
